@@ -1,0 +1,45 @@
+{
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ]
+}

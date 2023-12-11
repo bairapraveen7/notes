@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "991b539cb73be835",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ff02d1675feaa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bbbd6331a304bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Escape_hatches.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2d9c5ce7a46c160",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "31a01ab744c314ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/adding_interactivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5c11eff274f239a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb834303b44bdaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "948020c82ebebba2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e810076356ca065",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86a2c42d35d05af2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00c48fa8da955e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a75b515217cd38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc520e8790a752f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "React/adding_interactivity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57766478840a403e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "React/adding_interactivity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bf20a267ab84055",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "620a1307a8a3cb92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "React/adding_interactivity.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31a01ab744c314ed",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "react.dev/_next/imageurl=%2Fimages%2Fdocs%2Fdiagrams%2Fpreserving_state_dom_tree.dark.png&w=1080&q=75.md",
+    "React/Images",
+    "HotKeys.md",
+    "Obsidian tutorial/Markdown.md",
+    "Finance/Khan_academy/Accounting.md",
+    "Untitled.md",
+    "React/Escape_hatches.md",
+    "React/learn_syntax.md",
+    "React/adding_interactivity.md",
+    "React/Managing_state.md",
+    "React/Images/PVPr1dK.jpg",
+    "React/Images/ogimage.png",
+    "React/Images/i_react-batching.png",
+    "React/React lifecycle methods diagram.html",
+    "React/React lifecycle methods diagram_files/index-4746ece3.css",
+    "React/React lifecycle methods diagram_files/index-155c5ed7.js",
+    "React/React lifecycle methods diagram_files/Unmounting-2c82370f.css",
+    "React/React lifecycle methods diagram_files",
+    "React/Images/sharing_state_child_clicked.webp",
+    "React/Images/s_thinking-in-react_ui_outline.png",
+    "React/Images/responding_to_input_flow.webp",
+    "React/Images/preserving_state_same_component.webp",
+    "React/Images/preserving_state_diff_position_p2.webp",
+    "React/Images/i_state-snapshot2.png",
+    "React/Obsidian.html",
+    "React/Obsidian_files/index-4746ece3.css",
+    "React/Obsidian_files/index-155c5ed7.js",
+    "React/Obsidian_files/Unmounting-2c82370f.css",
+    "React/thinking in react.md",
+    "React/Images/preserving_state_dom_tree.webp",
+    "React/CodeExamples/example_for_understanding_states.md",
+    "React/CodeExamples/impure_component.md",
+    "React/tic tac toe.md",
+    "!Untitled.canvas",
+    "React/code_examples.md",
+    "deeds.md",
+    "Finance/Khan_academy/Note2.md",
+    "2023-11-12.md",
+    "Untitled 1.canvas",
+    "hello.md",
+    "file.md"
+  ]
+}
